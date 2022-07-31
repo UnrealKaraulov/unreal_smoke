@@ -1,4 +1,4 @@
-   // удалить эффект дыма
+   	// удалить эффект дыма
 	// remove real smoke effect
 	unrealsmoke_removerealsmoke // default = 1
 	
